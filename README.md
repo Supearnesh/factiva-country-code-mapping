@@ -6,7 +6,7 @@ This utility simplifies mapping between country names, DJII region codes, and IS
 
 To install this library, run the following commands.
 
-    $ pip install -u factiva-country-code-mapping
+    $ pip install -i factiva-country-code-mapping
 
 ## Usage
 
