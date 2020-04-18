@@ -14,7 +14,7 @@ The utility can be run by adding csv files to the 'process' folder; the input fi
 
     python -m country_code_mapping <input file> [method-options] [output-options]
     
-*<input file>* - filename of input file located in the 'process/input' folder
+*<*input file*>* - filename of input file located in the 'process/input' folder
 
 *[method-options]* - method of parsing with the below values
 l = list approach (slower)
