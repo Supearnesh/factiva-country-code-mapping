@@ -14,13 +14,13 @@ The utility can be run by adding csv files to the 'process' folder; the input fi
 
     python -m country_code_mapping <input file> [method-options] [output-options]
     
-*arg[1]* - filename of input file located in the 'process/input' folder
+*<input file>* - filename of input file located in the 'process/input' folder
 
-*arg[2]* - method of parsing with the below values
-                    'l' = list approach (slower)
-                    'd' = dictionaries approach (faster)
-                    
-*arg[3]* - preferred output format with the below values
-                    '1' = standard country names
-                    '2' = DJII region codes
-                    '3' = ISO Alpha 2 country codes
+*[method-options]* - method of parsing with the below values
+l = list approach (slower)
+d = dictionaries approach (faster)
+
+*[output-options]* - preferred output format with the below values
+1 = standard country names
+2 = DJII region codes
+3 = ISO Alpha 2 country codes
