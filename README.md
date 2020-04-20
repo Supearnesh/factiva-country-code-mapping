@@ -17,10 +17,12 @@ The utility can be run by adding csv files to the 'process' folder; the input fi
 *<*input file*>* - filename of input file located in the 'process/input' folder
 
 *[method-options]* - method of parsing with the below values
-    l = list approach (slower)
-    d = dictionaries approach (faster)
+
+            l = list approach (slower)
+            d = dictionaries approach (faster)
 
 *[output-options]* - preferred output format with the below values
-    1 = standard country names
-    2 = DJII region codes
-    3 = ISO Alpha 2 country codes
+
+            1 = standard country names
+            2 = DJII region codes
+            3 = ISO Alpha 2 country codes
