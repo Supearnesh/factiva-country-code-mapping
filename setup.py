@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="factiva-country-code-mapping",
-    version="0.0.1",
+    version="1.0.2",
     author="Supearnesh",
     author_email="arnesh.sahay@gmail.com",
     description="A utility to simplify mapping Factiva country codes",
@@ -15,7 +15,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: GNU LGPL-3.0",
+        "License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)",
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
