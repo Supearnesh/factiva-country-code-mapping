@@ -23,6 +23,6 @@ The utility can be run by adding csv files to the 'process' folder; the input fi
 
 *[output-options]* - preferred output format with the below values
 
-            1 = standard country names
-            2 = DJII region codes
-            3 = ISO Alpha 2 country codes
+            0 = standard country names
+            1 = DJII region codes
+            2 = ISO Alpha 2 country codes
